@@ -33,7 +33,9 @@ import androidx.navigation.createGraph
 *    zeigen wollen.
 *    Aufgabe 6.2
 *    Implementiert den NavHost innerhalb des Scaffolds. Als navController und navGraph übergeb wir
-*    die vorher erstellten und als modifier legen wir ein Padding fest mit dem Wert it.
+*    die vorher erstellten und als modifier legen wir ein Padding fest mit dem Wert it. Außerdem
+*    implementieren wir für unsere BottomNavigation Buttons mithilfe der navController.navigate()-
+*    Funktion, zu welchen Screen wir mit welchem Button navigieren.
  */
 
 /*TODO: Aufgabe 7
