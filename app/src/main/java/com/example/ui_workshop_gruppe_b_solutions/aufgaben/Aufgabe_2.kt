@@ -13,7 +13,7 @@ import androidx.compose.ui.tooling.preview.Preview
 *  Parameter nutzt aus jedem Listen Eintrag einen Task zu erstellen. Dafür nutzt man die
 *  Erweiterungsfunktion items(liste){item->}, mithilfe wessen man für jedes Listenelement eine
 *  Operation auszuführen(z.B. ein Composable erstellen). Außerdem soll aus der Liste zuerst eine
-*  stateListe gemcht werden durch die toMutableStateList()-Funktion von der Liste.
+*  stateListe gemacht werden durch die toMutableStateList()-Funktion von der Liste.
  */
 
 @Composable
